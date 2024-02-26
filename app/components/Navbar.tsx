@@ -5,10 +5,10 @@ export const Navbar = () => {
             <Element href='#intro' label="Psia fryzjernia"/>
             <Element href='#about' label="O nas"/>
             <Element href='#offer' label="Oferta"/>
-            <Element label="Cennik"/>
-            <Element label="Przed wizytą"/>
-            <Element label="Galeria"/>
-            <Element label="Kontakt"/>
+            <Element href="#pricing" label="Cennik"/>
+            <Element href="#beforeVisit" label="Przed wizytą"/>
+            <Element href="#gallery" label="Galeria"/>
+            <Element href="#contact" label="Kontakt"/>
         </nav>
     )
 }

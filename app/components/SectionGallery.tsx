@@ -7,7 +7,7 @@ export const SectionGallery = () => {
   const [photoIndex, setPhotoIndex] = useState(0);
   return (
     <section
-      id="intro"
+      id="gallery"
       className="w-full pt-16 bg-bone2"
       style={{ overflow: "hidden" }}
     >
