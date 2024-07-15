@@ -4,10 +4,10 @@ export const SectionBeforeVisit = () => {
       id="beforeVisit"
       className="flex flex-col items-center justify-center w-full pt-16 pb-16 bg-graphite1"
     >
-      <h1 className="text-6xl text-bone2 pb-10 underline decoration-1 underline-offset-8">
+      <h1 className="text-4xl md:text-6xl text-bone2 pb-10 underline decoration-1 underline-offset-8 text-center">
         PRZED WIZYTĄ
       </h1>
-      <ol className="list-decimal">
+      <ol className="list-decimal px-12">
         <li className={liStyles}>
           Przed wizytą nie należy przekarmiać pieska i umożliwić mu załatwienie
           potrzeb fizjologicznych.

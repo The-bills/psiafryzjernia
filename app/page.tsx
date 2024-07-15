@@ -17,6 +17,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-stretch font-caudex">
       <Head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
