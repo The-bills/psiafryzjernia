@@ -2,7 +2,7 @@ export const Paralax = () => {
   return (
     <div
       style={{
-        backgroundImage: 'url("/lokal.jpeg")',
+        backgroundImage: 'url("/lokalNew.JPG")',
         perspective: "10px",
         overflowY: "scroll",
         overflowX: "hidden",
