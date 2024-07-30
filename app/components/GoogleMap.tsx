@@ -1,13 +1,9 @@
 import React from "react";
-import GoogleMapReact from 'google-map-react';
+import {APIProvider, Map, Marker, } from '@vis.gl/react-google-maps';
 
 const markerStyles = {
   position: 'absolute',
   transform: 'translate(-50%, 0)',
-  // background: 'red', 
-  // color: 'white',    
-  // padding: '5px',    
-  // borderRadius: '50%'
 } as const
 const AnyReactComponent = ({ text }: any) => <div style={markerStyles}>{text}</div>;
 
@@ -23,17 +19,17 @@ export function GoogleMap(){
 
   return (
     <div style={{ height: '300px', width: '100%' }}>
-      <GoogleMapReact
-        bootstrapURLKeys={{ key: "" }}
-        defaultCenter={location.center}
-        defaultZoom={location.zoom}
-      >
-         <AnyReactComponent
-          lat={location.center.lat}
-          lng={location.center.lng}
-          text="My Marker"
-        />
-      </GoogleMapReact>
+       <APIProvider apiKey={process.env.NEXT_PUBLIC_GOOGLE_MAPS_API!}>
+    <Map
+      style={{width: '100%', height: '100%'}}
+      defaultCenter={location.center}
+      defaultZoom={location.zoom}
+      gestureHandling={'greedy'}
+      disableDefaultUI={true}
+    >
+    <Marker position={location.center} />
+    </Map>
+  </APIProvider>
     </div>
   );
 }
