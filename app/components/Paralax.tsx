@@ -1,14 +1,34 @@
+import React, { useEffect, useState } from 'react';
+
 export const Paralax = () => {
+  const [backgroundImage, setBackgroundImage] = useState<string>('/lokalNew.JPG');
+
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth <= 768) {
+        setBackgroundImage('/lokal.jpeg');
+      } else {
+        setBackgroundImage('/lokalNew.JPG');
+      }
+    };
+
+    handleResize(); 
+    window.addEventListener('resize', handleResize); 
+
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
+
   return (
     <div
       style={{
-        backgroundImage: 'url("/lokalNew.JPG")',
-        perspective: "10px",
-        overflowY: "scroll",
-        overflowX: "hidden",
+        backgroundImage: `url(${backgroundImage})`, 
+        perspective: '10px',
+        overflowY: 'scroll',
+        overflowX: 'hidden',
         backgroundSize: 'cover',
-        zIndex: -1
-    
+        zIndex: -1,
       }}
       className="h-96 bg-fixed object-fill"
     >

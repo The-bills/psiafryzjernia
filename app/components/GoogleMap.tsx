@@ -3,7 +3,11 @@ import GoogleMapReact from 'google-map-react';
 
 const markerStyles = {
   position: 'absolute',
-  transform: 'translate(-50%, 0)'
+  transform: 'translate(-50%, 0)',
+  // background: 'red', 
+  // color: 'white',    
+  // padding: '5px',    
+  // borderRadius: '50%'
 } as const
 const AnyReactComponent = ({ text }: any) => <div style={markerStyles}>{text}</div>;
 
