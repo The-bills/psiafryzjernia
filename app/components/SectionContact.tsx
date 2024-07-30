@@ -22,13 +22,18 @@ export const SectionContact = () => {
         </div>
         <div className="text-center text-bone1 text-2xl my-12">
           <div>
-            <h1 className="font-bold text-2xl md:text-3xl">
+            <h1 className="font-bold text-2xl md:text-3xl my-2">
               +48 697 260 300
             </h1>
             </div>
           <div>
-            <h1 className="font-bold text-2xl md:text-3xl">
+            <h1 className="font-bold text-2xl md:text-3xl my-2">
               pytanie@psiafryzjernia.pl
+            </h1>
+          </div>
+          <div>
+            <h1 className="font-bold text-2xl md:text-3xl my-2">
+              ul. Ułanów 7 lokal nr. 9
             </h1>
           </div>
           <div className="mt-8">

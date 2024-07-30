@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { ArrowLeft } from "./ArrowLeft";
 import { ArrowRight } from "./ArrowRight";
+import Image from "next/image";
 
 const Modal = ({ image, onClose, onPrev, onNext }: { image: string, onClose: () => void, onPrev: () => void, onNext: () => void }) => {
   return (
@@ -90,6 +91,7 @@ export const SectionGallery = () => {
               src={'/gallery/' + image}
               className="aspect-square object-cover brightness-75 transition ease-in delay-500 hover:scale-125 hover:brightness-100 duration-300 cursor-pointer"
               onClick={() => setPhotoIndex(index)}
+              loading="lazy"
             />
           </div>
         ))}
