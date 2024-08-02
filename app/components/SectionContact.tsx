@@ -45,8 +45,12 @@ export const SectionContact = () => {
             Facebook
           </h1>
           <div className="rounded-full w-1/2 h-fit overflow-hidden">
-            <a href="https://www.facebook.com/psiafryzjernia">
-              <img src="logo-fb.jpeg" className=" transition ease-linear duration-300 hover:scale-110"></img>
+            <a href="https://www.facebook.com/psiafryzjernia" aria-label="Open Facebook page">
+              <img 
+              src="logo-fb.jpeg" 
+              className=" transition ease-linear duration-300 hover:scale-110"
+              alt="Facebook">
+              </img>
             </a>
           </div>
         </div>

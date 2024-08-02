@@ -30,6 +30,37 @@ const Modal = ({ image, onClose, onPrev, onNext }: { image: string, onClose: () 
 };
 
 export const SectionGallery = () => {
+  // const images = [
+  //   '20230517_152029 (1).jpg',
+  //   '20240131_134541 (1).jpg',
+  //   '20240312_135351 (1).jpg',
+  //   '20240411_123402 (1).jpg',
+  //   '20240608_102306 (1).jpg',
+  //   '20230519_121948 (1).jpg',
+  //   '20240214_153731 (1).jpg',
+  //   '20240315_102123 (1).jpg',
+  //   '20240412_124340 (1).jpg',
+  //   '20230519_121952 (1).jpg',
+  //   '20240219_145128 (1).jpg',
+  //   '20240315_102125 (1).jpg',
+  //   '20240423_095040 (1).jpg',
+  //   '20240630_120509 (1).jpg',
+  //   '20231115_123737 (1).jpg',
+  //   '20240302_125919 (1).jpg',
+  //   '20240321_151852 (1).jpg',
+  //   '20240605_101129 (1).jpg',
+  //   '20231219_155901 (1).jpg',
+  //   '20240328_115313 (1).jpg',
+  //   '20240605_175552 (1).jpg',
+  //   '20231221_182248 (1).jpg',
+  //   '20240302_130033 (1).jpg',
+  //   '20240330_104442 (1).jpg',
+  //   '20240123_113716 (1).jpg',
+  //   '20240307_110515 (1).jpg',
+  //   '20240405_110217 (1).jpg',
+  //   '20240606_113228 (1).jpg'
+  // ];
+
   const images = [
     '20230517_152029.jpg',
     '20240131_134541.jpg',
@@ -88,7 +119,8 @@ export const SectionGallery = () => {
         {images.map((image, index) => (
           <div key={image} className="aspect-square overflow-hidden rounded-md">
             <img
-              src={'/gallery/' + image}
+              src={'/gallery/thumbnail/' + image}
+              alt="photo"
               className="aspect-square object-cover brightness-75 transition ease-in delay-500 hover:scale-125 hover:brightness-100 duration-300 cursor-pointer"
               onClick={() => setPhotoIndex(index)}
               loading="lazy"

@@ -1,8 +1,12 @@
 import { PricingTable } from "./PricingTable";
+import dynamic from 'next/dynamic';
+
+const DynamicPricingTable = dynamic<{}>(() => import('./PricingTable').then(mod => mod.PricingTable), { ssr: false });
+
 
 export const SectionPricing = () => {
   const tdClass = "border border-black text-center p-2";
-
+  
   return (
     <section
       id="pricing"
@@ -22,7 +26,7 @@ export const SectionPricing = () => {
       <div className="px-4" style={{maxWidth: '100vw'}}>
       <div className="overflow-x-scroll md:overflow-x-auto mx-0 w-full">
       <div className="" style={{minWidth: 450, maxWidth: 1000}}>
-        <PricingTable />
+        <DynamicPricingTable />
       </div>
       </div>
       </div>

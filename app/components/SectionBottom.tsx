@@ -3,8 +3,8 @@ export const SectionBottom = () => {
     <section id="bottom" className="text-center text-graphite1 pt-6 pb-6">
       <p>
         © Psia Fryzjernia - Psi Fryzjer, Usługi Groomingowe.
-        <div>Wszelkie Prawa Zastrzeżone.</div>
       </p>
+      <div>Wszelkie Prawa Zastrzeżone.</div>
     </section>
   );
 };
