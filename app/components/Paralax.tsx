@@ -31,7 +31,7 @@ export const Paralax = () => {
         backgroundPosition: 'center',
         zIndex: -1,
       }}
-      className="h-96 bg-fixed object-fill justify-center items-center flex"
+      className="h-96 bg-fixed object-fill justify-center items-center flex sm:bg-contain"
     >
     </div>
   );
