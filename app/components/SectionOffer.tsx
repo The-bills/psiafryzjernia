@@ -2,7 +2,7 @@ export const SectionOffer = () => {
   return (
     <section id='offer' className="flex flex-col items-center justify-center w-full pt-16 pb-16 bg-graphite1">
       <h1 className="text-4xl md:text-6xl text-bone2 pb-10 underline decoration-1 underline-offset-8">Oferta</h1>
-      <div className="flex flex-row flex-wrap justify-center gap-10 max-w-6xl pl-10 pr-10">
+      <div className="flex flex-row flex-wrap justify-center gap-10 max-w-6xl pl-10 pr-10 text-stone-950">
         <Card title="Kąpiel">
           W zakres usługi wchodzi wyczesanie pieska przed kąpielą, dwukrotna
           kąpiel z użyciem odpowiednich do rodzaju szaty i jakości/kondycji
