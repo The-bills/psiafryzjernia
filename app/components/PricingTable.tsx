@@ -1,5 +1,5 @@
 export const PricingTable = () => {
-  const tdClass = "border border-black text-center p-2";
+  const tdClass = "border border-black text-center p-2 text-stone-950";
 
   return (
     <table className="border min-w-96">
