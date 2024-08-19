@@ -28,6 +28,7 @@ export const Paralax = () => {
         overflowY: 'scroll',
         overflowX: 'hidden',
         backgroundSize: 'cover',
+        backgroundPosition: 'center',
         zIndex: -1,
       }}
       className="h-96 bg-fixed object-fill justify-center items-center flex"
