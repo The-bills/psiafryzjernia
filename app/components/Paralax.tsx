@@ -29,6 +29,8 @@ export const Paralax = () => {
         overflowX: 'hidden',
         backgroundSize: window.innerWidth <= 768 ? '200%' : 'cover',
         backgroundPosition: window.innerWidth <= 768 ? 'center top' : 'center',
+        WebkitBackgroundSize: '100% auto',
+        backgroundAttachment: 'scroll',
         zIndex: -1,
       }}
       className="h-96 bg-fixed object-fill justify-center items-center flex sm:bg-contain"
