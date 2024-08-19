@@ -27,8 +27,8 @@ export const Paralax = () => {
         perspective: '10px',
         overflowY: 'scroll',
         overflowX: 'hidden',
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
+        backgroundSize: window.innerWidth <= 768 ? '200%' : 'cover',
+        backgroundPosition: window.innerWidth <= 768 ? 'center top' : 'center',
         zIndex: -1,
       }}
       className="h-96 bg-fixed object-fill justify-center items-center flex sm:bg-contain"
