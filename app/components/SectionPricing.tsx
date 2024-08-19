@@ -10,12 +10,12 @@ export const SectionPricing = () => {
   return (
     <section
       id="pricing"
-      className="flex flex-col items-center justify-center w-full pt-16 pb-16"
+      className="flex flex-col items-center justify-center w-full pt-16 pb-16 bg-bone2"
     >
-      <h1 className="text-4xl md:text-6xl pb-10 underline decoration-1 underline-offset-8">
+      <h1 className="text-4xl md:text-6xl pb-10 underline decoration-1 underline-offset-8 text-stone-950">
         Cennik
       </h1>
-      <p className="text-graphite text-lg font-light leading-relaxed mb-8 max-w-3xl text-center p-6">
+      <p className="text-graphite text-lg font-light leading-relaxed mb-8 max-w-3xl text-center p-6 text-stone-950">
         Cennik jest orientacyjny, a ostateczna cena usługi zależy od wielu
         czynników, takich jak rodzaj i kondycja szaty, wielkość i waga psa, jego
         zachowanie oraz częstotliwość korzystania z usług. Rzeczywista cena
