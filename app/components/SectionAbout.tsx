@@ -4,7 +4,7 @@ export const SectionAbout = () => {
       id="about"
       className="flex flex-col items-center justify-center w-full pt-16 pb-16 px-6 bone2"
     >
-      <h1 className="text-4xl md:text-6xl pb-10 underline decoration-1 underline-offset-8 text-stone-950s">
+      <h1 className="text-4xl md:text-6xl pb-10 underline decoration-1 underline-offset-8 text-stone-950">
         O NAS!
       </h1>
       <p className={pStyles}>
