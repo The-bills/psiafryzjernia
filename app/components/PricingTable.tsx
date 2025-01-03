@@ -31,18 +31,18 @@ export const PricingTable = () => {
       <tbody>
         <tr>
           <td className={tdClass}>Kompleks grooming ze strzyżeniem</td>
-          <td className={tdClass}>od 140</td>
-          <td className={tdClass}>od 150</td>
-          <td className={tdClass}>od 160</td>
-          <td className={tdClass}>od 180</td>
+          <td className={tdClass}>150</td>
+          <td className={tdClass}>160</td>
+          <td className={tdClass}>180</td>
+          <td className={tdClass}>200</td>
           <td className={tdClass}>115/1h</td>
         </tr>
         <tr>
           <td className={tdClass}>Kompleks grooming z trymowaniem</td>
-          <td className={tdClass}>od 170</td>
-          <td className={tdClass}>od 190</td>
-          <td className={tdClass}>od 200</td>
-          <td className={tdClass}>od 220</td>
+          <td className={tdClass}>180</td>
+          <td className={tdClass}>190</td>
+          <td className={tdClass}>210</td>
+          <td className={tdClass}>230</td>
           <td className={tdClass}>indywidualnie</td>
         </tr>
         <tr>
@@ -56,10 +56,10 @@ export const PricingTable = () => {
         </tr>
         <tr>
           <td className={tdClass}>Kąpiel z wyczesaniem</td>
-          <td className={tdClass}>od 90</td>
-          <td className={tdClass}>od 130</td>
-          <td className={tdClass}>od 150</td>
-          <td className={tdClass}>od 180</td>
+          <td className={tdClass}>100</td>
+          <td className={tdClass}>140</td>
+          <td className={tdClass}>150</td>
+          <td className={tdClass}>180</td>
           <td className={tdClass}>100/1h</td>
         </tr>
         <tr>
