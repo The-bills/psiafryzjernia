@@ -1,17 +1,30 @@
 "use client";
 
-import Image from "next/image";
-import { Navbar } from "./components/Navbar";
 import { SectionIntro } from "./components/SectionIntro";
 import { SectionAbout } from "./components/SectionAbout";
 import { SectionOffer } from "./components/SectionOffer";
 import Head from "next/head";
 import { SectionPricing } from "./components/SectionPricing";
 import { SectionBeforeVisit } from "./components/SectionBeforeVisit";
-import { Paralax } from "./components/Paralax";
 import { SectionGallery } from "./components/SectionGallery";
 import { SectionContact } from "./components/SectionContact";
 import { SectionBottom } from "./components/SectionBottom";
+
+import dynamic from "next/dynamic";
+
+const Paralax = dynamic(
+  () => {
+    return import("./components/Paralax")
+  },
+  { ssr: false }
+);
+
+const Navbar = dynamic(
+  () => {
+    return import("./components/Navbar")
+  },
+  { ssr: false }
+);
 
 export default function Home() {
   return (

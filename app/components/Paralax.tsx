@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useEffect, useState } from 'react';
 
 export const Paralax = () => {
@@ -38,3 +40,5 @@ export const Paralax = () => {
     </div>
   );
 };
+
+export default Paralax

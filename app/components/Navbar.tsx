@@ -1,3 +1,4 @@
+"use client"
 import React, { useEffect, useState } from 'react';
 
 export const Navbar = () => {
@@ -60,3 +61,5 @@ type ElementProps = {
     onClick?: () => void
 }
 const Element = (p: ElementProps) => <a onClick={p.onClick} href={p.href} className="pl-10 pr-10 font-semibold md:text-nowrap">{p.label}</a>
+
+export default Navbar
