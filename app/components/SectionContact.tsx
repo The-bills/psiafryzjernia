@@ -28,7 +28,7 @@ export const SectionContact = () => {
             </div>
           <div>
             <h1 className="font-bold text-2xl md:text-3xl my-2">
-              ukarpowicz@wp.pl
+              ukarpowicz@vp.pl
             </h1>
           </div>
           <div>
