@@ -18,7 +18,7 @@ const AnyReactComponent = ({ text }: any) => <div style={markerStyles}>{text}</d
 export function GoogleMap(){
 
   return (
-    <div style={{ height: '300px', width: '100%' }}>
+    <div style={{ height: '410px', width: '100%' }}>
        <APIProvider apiKey={process.env.NEXT_PUBLIC_GOOGLE_MAPS_API!}>
     <Map
       style={{width: '100%', height: '100%'}}

@@ -8,12 +8,12 @@ export const SectionContact = () => {
   };
   return (
     <section id="contact" className="w-full p-6 md:p-16 bg-graphite1">
-      <h1 className="text-4xl md:text-6xl text-center text-bone2 pb-10 underline decoration-1 underline-offset-8">
+      <h1 className="text-4xl md:text-6xl text-center text-bone2 pb-4 underline decoration-1 underline-offset-8">
         Kontakt
       </h1>
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
         <div>
-          <h1 className="hidden md:block text-3xl md:text-4xl text-center text-bone2 pb-10 underline decoration-1 underline-offset-8">
+          <h1 className="hidden md:block text-3xl md:text-4xl text-center text-bone2 pb-4 underline decoration-1 underline-offset-8">
             Dojazd
           </h1>
           <div>
@@ -28,7 +28,7 @@ export const SectionContact = () => {
             </div>
           <div>
             <h1 className="font-bold text-2xl md:text-3xl my-2">
-              pytanie@psiafryzjernia.pl
+              ukarpowicz@wp.pl
             </h1>
           </div>
           <div>
@@ -41,17 +41,21 @@ export const SectionContact = () => {
           </div>
         </div>
         <div className="flex flex-col items-center">
-          <h1 className="text-4xl text-center text-bone2 pb-10 underline decoration-1 underline-offset-8">
+          <h1 className="text-4xl text-center text-bone2 pb-4 underline decoration-1 underline-offset-8">
             Facebook
           </h1>
-          <div className="rounded-full w-1/2 h-fit overflow-hidden">
+          <div className="rounded-full w-1/2 h-fit overflow-hidden mb-10">
             <a href="https://www.facebook.com/psiafryzjernia" aria-label="Open Facebook page">
               <img 
               src="logo-fb.jpeg" 
-              className=" transition ease-linear duration-300 hover:scale-110"
+              className="transition ease-linear duration-300 hover:scale-110"
               alt="Facebook">
               </img>
             </a>
+          </div>
+          <div className="w-1/2 mb-4">
+            <img src="logo_pl_200.png" className="object-contain w-full h-auto transition ease-linear duration-300 hover:scale-110" alt="Orły Groomingu 2025 Laureat">
+            </img> 
           </div>
         </div>
       </div>
