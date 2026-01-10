@@ -36,12 +36,12 @@ return (
       }}
     >
       <div
-        className="absolute top-0 left-0 w-full h-full will-change-transform transition-transform duration-100 ease-linear"
+        className="top-0 left-0 w-full h-full will-change-transform transition-transform duration-100 ease-linear"
         style={{
           backgroundImage: `url(${backgroundImage})`,
           backgroundSize: isMobile ? "200%" : "cover",
           backgroundPosition: "center",
-          transform: `translateY(${offsetY * 0.3}px) scale(1.1)`,
+          transform: `translateY(${offsetY * 0.2}px) scale(1.1)`,
           backgroundRepeat: "no-repeat",
           zIndex: -1,
         }}

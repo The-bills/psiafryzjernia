@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Justyna",
+    "rating": 5,
+    "text": "Z całego serca polecam *Psią Fryzjernię w Lublinie*! 🐾✂️ Profesjonalne podejście, ogromna cierpliwość i miłość do zwierząt widać tu na każdym kroku. Mój piesek wyszedł nie tylko pięknie ostrzyżony, ale też zrelaksowany i szczęśliwy! 💖 Czysto, przyjemnie, bez stresu – widać, że to miejsce stworzone z pasji. Dziękuję za cudowną opiekę i już nie możemy się doczekać kolejnej wizyty! 🐶✨"
+  },
+  {
+    "name": "Lizaveta",
+    "rating": 5,
+    "text": "Dziękuję bardzo ode mnie i od Runy za delikatne podejście. Pomimo tego, że pies się bał i od czasu do czasu próbował ugryźć groomera, wszystko się udało. Mój szczeniak wygląda teraz na swój wiek, a nie na dziadka. Na pewno wrócimy!❤❤❤"
+  },
+  {
+    "name": "Kacper",
+    "rating": 5,
+    "text": "Strzyżemy naszego maltańczyka w Psiej Fryzjerni od samego początku i możemy z czystym sumieniem polecić. Pani Groomerka ma bardzo dobre podejście do zwierząt! Piesek zawsze jest obcięty bardzo ładnie 😄 Polecam serdecznie!"
+  },
+  {
+    "name": "Renata",
+    "rating": 5,
+    "text": "Wyjątkowe miejsce, wyjątkowa usługa!!! Pani z miłością i pasją zajęła się moim malutkim Biewerkiem! A efekt rewelacyjny!!! Pięknie ostrzyżony! Dopieszczony każdy kosmyk!!! A piesek zadowolony - brak stresu- zasypiał podczas całego zabiegu- czuł się bezpiecznie❤️ GORĄCO POLECAM- takich miejsc w Lublinie nie ma - dluuuugo szukałam właśnie takiego groomera! Profesjonalana usługa a Pani pełna pasji do tego co robi! Otrzymałam też wiele cennych informacji na temat pielęgnacji mojego maluszka! Bardzo bardzo dziękuję raz jeszcze!!! Zawsze wrócę!"
+  },
+  {
+    "name": "Darek",
+    "rating": 5,
+    "text": "Gorąco polecam! Moja psinka wygląda po wizycie jak księżniczka 😁 Pani Ula ma świetne podejście do czworonogów."
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Fantastyczne miejsce, w którym piesek czuje się doskonale .W czasie pielęgnacji piesek nie jest zestresowany.Efekt strzyżenia bardzo ładny.Nela poleca Psia Fryzjernie !"
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Również polecam, pierwszy raz korzystałam z usług pani Uli, dużo się dowiedziałam na temat pielęgnacji. Usługa wykonana fachowo, z sercem, a co najważniejsze - bez stresu dla mojego pupila. Pozdrawiamy, Magda i Max"
+  },
+  {
+    "name": "Sebastian",
+    "rating": 5,
+    "text": "Jeśli chodzi o moje zdanie to jest to najlepszy gromer u jakie byłem że swoimi szpicami a byłem u kilku 100% polecam panią Ulę!"
+  },
+  {
+    "name": "Paulina",
+    "rating": 5,
+    "text": "Pełen profesjonalizm 👌 To nasze drugie strzyżenie i nie ostatnie. Nie obawiam się że zostawię mojego pupila na 2h bo wiem że jest w dobrych rękach. Dziękujemy ! 🩷"
+  },
+  {
+    "name": "Anna",
+    "rating": 5,
+    "text": "Bardzo miła pani i profesjonalnie zajęła się moim pieskiem."
+  },
+  {
+    "name": "Iwona",
+    "rating": 5,
+    "text": "Pełen profesjonalizm. Pani bardzo miła, widać ze to co robi wykonuje z pasją. Kiedy wróciłem z pieskiem do domu wszyscy domownicy byli zachwyceni z nowego wyglądu . Nawet po dwóch latach bez trymowania Pani wyprowadziła sierść suni do super wyglądu. Śmiało mogę powiedzieć że można startować na wystawie. Polecam w 100% 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶"
+  },
+  {
+    "name": "Aleksandra",
+    "rating": 5,
+    "text": "Zdecydowanie polecam🦸‍♂️ Z czystym sumieniem zostawiłam dziś swojego Pupila na kompleksowe SPA, wiedząc, że jest w najlepszych rękach i wróci do domu bez traumy🦊💆‍♀️ Atmosfera super, a sama jakość obcięcia, perfekcyjna 😻"
+  },
+    {
+    "name": "Justyna",
+    "rating": 5,
+    "text": "Z całego serca polecam *Psią Fryzjernię w Lublinie*! 🐾✂️ Profesjonalne podejście, ogromna cierpliwość i miłość do zwierząt widać tu na każdym kroku. Mój piesek wyszedł nie tylko pięknie ostrzyżony, ale też zrelaksowany i szczęśliwy! 💖 Czysto, przyjemnie, bez stresu – widać, że to miejsce stworzone z pasji. Dziękuję za cudowną opiekę i już nie możemy się doczekać kolejnej wizyty! 🐶✨"
+  },
+  {
+    "name": "Lizaveta",
+    "rating": 5,
+    "text": "Dziękuję bardzo ode mnie i od Runy za delikatne podejście. Pomimo tego, że pies się bał i od czasu do czasu próbował ugryźć groomera, wszystko się udało. Mój szczeniak wygląda teraz na swój wiek, a nie na dziadka. Na pewno wrócimy!❤❤❤"
+  },
+  {
+    "name": "Kacper",
+    "rating": 5,
+    "text": "Strzyżemy naszego maltańczyka w Psiej Fryzjerni od samego początku i możemy z czystym sumieniem polecić. Pani Groomerka ma bardzo dobre podejście do zwierząt! Piesek zawsze jest obcięty bardzo ładnie 😄 Polecam serdecznie!"
+  },
+  {
+    "name": "Renata",
+    "rating": 5,
+    "text": "Wyjątkowe miejsce, wyjątkowa usługa!!! Pani z miłością i pasją zajęła się moim malutkim Biewerkiem! A efekt rewelacyjny!!! Pięknie ostrzyżony! Dopieszczony każdy kosmyk!!! A piesek zadowolony - brak stresu- zasypiał podczas całego zabiegu- czuł się bezpiecznie❤️ GORĄCO POLECAM- takich miejsc w Lublinie nie ma - dluuuugo szukałam właśnie takiego groomera! Profesjonalana usługa a Pani pełna pasji do tego co robi! Otrzymałam też wiele cennych informacji na temat pielęgnacji mojego maluszka! Bardzo bardzo dziękuję raz jeszcze!!! Zawsze wrócę!"
+  },
+  {
+    "name": "Darek",
+    "rating": 5,
+    "text": "Gorąco polecam! Moja psinka wygląda po wizycie jak księżniczka 😁 Pani Ula ma świetne podejście do czworonogów."
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Fantastyczne miejsce, w którym piesek czuje się doskonale .W czasie pielęgnacji piesek nie jest zestresowany.Efekt strzyżenia bardzo ładny.Nela poleca Psia Fryzjernie !"
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Również polecam, pierwszy raz korzystałam z usług pani Uli, dużo się dowiedziałam na temat pielęgnacji. Usługa wykonana fachowo, z sercem, a co najważniejsze - bez stresu dla mojego pupila. Pozdrawiamy, Magda i Max"
+  },
+  {
+    "name": "Sebastian",
+    "rating": 5,
+    "text": "Jeśli chodzi o moje zdanie to jest to najlepszy gromer u jakie byłem że swoimi szpicami a byłem u kilku 100% polecam panią Ulę!"
+  },
+  {
+    "name": "Paulina",
+    "rating": 5,
+    "text": "Pełen profesjonalizm 👌 To nasze drugie strzyżenie i nie ostatnie. Nie obawiam się że zostawię mojego pupila na 2h bo wiem że jest w dobrych rękach. Dziękujemy ! 🩷"
+  },
+  {
+    "name": "Anna",
+    "rating": 5,
+    "text": "Bardzo miła pani i profesjonalnie zajęła się moim pieskiem."
+  },
+  {
+    "name": "Iwona",
+    "rating": 5,
+    "text": "Pełen profesjonalizm. Pani bardzo miła, widać ze to co robi wykonuje z pasją. Kiedy wróciłem z pieskiem do domu wszyscy domownicy byli zachwyceni z nowego wyglądu . Nawet po dwóch latach bez trymowania Pani wyprowadziła sierść suni do super wyglądu. Śmiało mogę powiedzieć że można startować na wystawie. Polecam w 100% 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶"
+  },
+  {
+    "name": "Aleksandra",
+    "rating": 5,
+    "text": "Zdecydowanie polecam🦸‍♂️ Z czystym sumieniem zostawiłam dziś swojego Pupila na kompleksowe SPA, wiedząc, że jest w najlepszych rękach i wróci do domu bez traumy🦊💆‍♀️ Atmosfera super, a sama jakość obcięcia, perfekcyjna 😻"
+  },
+    {
+    "name": "Justyna",
+    "rating": 5,
+    "text": "Z całego serca polecam *Psią Fryzjernię w Lublinie*! 🐾✂️ Profesjonalne podejście, ogromna cierpliwość i miłość do zwierząt widać tu na każdym kroku. Mój piesek wyszedł nie tylko pięknie ostrzyżony, ale też zrelaksowany i szczęśliwy! 💖 Czysto, przyjemnie, bez stresu – widać, że to miejsce stworzone z pasji. Dziękuję za cudowną opiekę i już nie możemy się doczekać kolejnej wizyty! 🐶✨"
+  },
+  {
+    "name": "Lizaveta",
+    "rating": 5,
+    "text": "Dziękuję bardzo ode mnie i od Runy za delikatne podejście. Pomimo tego, że pies się bał i od czasu do czasu próbował ugryźć groomera, wszystko się udało. Mój szczeniak wygląda teraz na swój wiek, a nie na dziadka. Na pewno wrócimy!❤❤❤"
+  },
+  {
+    "name": "Kacper",
+    "rating": 5,
+    "text": "Strzyżemy naszego maltańczyka w Psiej Fryzjerni od samego początku i możemy z czystym sumieniem polecić. Pani Groomerka ma bardzo dobre podejście do zwierząt! Piesek zawsze jest obcięty bardzo ładnie 😄 Polecam serdecznie!"
+  },
+  {
+    "name": "Renata",
+    "rating": 5,
+    "text": "Wyjątkowe miejsce, wyjątkowa usługa!!! Pani z miłością i pasją zajęła się moim malutkim Biewerkiem! A efekt rewelacyjny!!! Pięknie ostrzyżony! Dopieszczony każdy kosmyk!!! A piesek zadowolony - brak stresu- zasypiał podczas całego zabiegu- czuł się bezpiecznie❤️ GORĄCO POLECAM- takich miejsc w Lublinie nie ma - dluuuugo szukałam właśnie takiego groomera! Profesjonalana usługa a Pani pełna pasji do tego co robi! Otrzymałam też wiele cennych informacji na temat pielęgnacji mojego maluszka! Bardzo bardzo dziękuję raz jeszcze!!! Zawsze wrócę!"
+  },
+  {
+    "name": "Darek",
+    "rating": 5,
+    "text": "Gorąco polecam! Moja psinka wygląda po wizycie jak księżniczka 😁 Pani Ula ma świetne podejście do czworonogów."
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Fantastyczne miejsce, w którym piesek czuje się doskonale .W czasie pielęgnacji piesek nie jest zestresowany.Efekt strzyżenia bardzo ładny.Nela poleca Psia Fryzjernie !"
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Również polecam, pierwszy raz korzystałam z usług pani Uli, dużo się dowiedziałam na temat pielęgnacji. Usługa wykonana fachowo, z sercem, a co najważniejsze - bez stresu dla mojego pupila. Pozdrawiamy, Magda i Max"
+  },
+  {
+    "name": "Sebastian",
+    "rating": 5,
+    "text": "Jeśli chodzi o moje zdanie to jest to najlepszy gromer u jakie byłem że swoimi szpicami a byłem u kilku 100% polecam panią Ulę!"
+  },
+  {
+    "name": "Paulina",
+    "rating": 5,
+    "text": "Pełen profesjonalizm 👌 To nasze drugie strzyżenie i nie ostatnie. Nie obawiam się że zostawię mojego pupila na 2h bo wiem że jest w dobrych rękach. Dziękujemy ! 🩷"
+  },
+  {
+    "name": "Anna",
+    "rating": 5,
+    "text": "Bardzo miła pani i profesjonalnie zajęła się moim pieskiem."
+  },
+  {
+    "name": "Iwona",
+    "rating": 5,
+    "text": "Pełen profesjonalizm. Pani bardzo miła, widać ze to co robi wykonuje z pasją. Kiedy wróciłem z pieskiem do domu wszyscy domownicy byli zachwyceni z nowego wyglądu . Nawet po dwóch latach bez trymowania Pani wyprowadziła sierść suni do super wyglądu. Śmiało mogę powiedzieć że można startować na wystawie. Polecam w 100% 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶"
+  },
+  {
+    "name": "Aleksandra",
+    "rating": 5,
+    "text": "Zdecydowanie polecam🦸‍♂️ Z czystym sumieniem zostawiłam dziś swojego Pupila na kompleksowe SPA, wiedząc, że jest w najlepszych rękach i wróci do domu bez traumy🦊💆‍♀️ Atmosfera super, a sama jakość obcięcia, perfekcyjna 😻"
+  },
+    {
+    "name": "Justyna",
+    "rating": 5,
+    "text": "Z całego serca polecam *Psią Fryzjernię w Lublinie*! 🐾✂️ Profesjonalne podejście, ogromna cierpliwość i miłość do zwierząt widać tu na każdym kroku. Mój piesek wyszedł nie tylko pięknie ostrzyżony, ale też zrelaksowany i szczęśliwy! 💖 Czysto, przyjemnie, bez stresu – widać, że to miejsce stworzone z pasji. Dziękuję za cudowną opiekę i już nie możemy się doczekać kolejnej wizyty! 🐶✨"
+  },
+  {
+    "name": "Lizaveta",
+    "rating": 5,
+    "text": "Dziękuję bardzo ode mnie i od Runy za delikatne podejście. Pomimo tego, że pies się bał i od czasu do czasu próbował ugryźć groomera, wszystko się udało. Mój szczeniak wygląda teraz na swój wiek, a nie na dziadka. Na pewno wrócimy!❤❤❤"
+  },
+  {
+    "name": "Kacper",
+    "rating": 5,
+    "text": "Strzyżemy naszego maltańczyka w Psiej Fryzjerni od samego początku i możemy z czystym sumieniem polecić. Pani Groomerka ma bardzo dobre podejście do zwierząt! Piesek zawsze jest obcięty bardzo ładnie 😄 Polecam serdecznie!"
+  },
+  {
+    "name": "Renata",
+    "rating": 5,
+    "text": "Wyjątkowe miejsce, wyjątkowa usługa!!! Pani z miłością i pasją zajęła się moim malutkim Biewerkiem! A efekt rewelacyjny!!! Pięknie ostrzyżony! Dopieszczony każdy kosmyk!!! A piesek zadowolony - brak stresu- zasypiał podczas całego zabiegu- czuł się bezpiecznie❤️ GORĄCO POLECAM- takich miejsc w Lublinie nie ma - dluuuugo szukałam właśnie takiego groomera! Profesjonalana usługa a Pani pełna pasji do tego co robi! Otrzymałam też wiele cennych informacji na temat pielęgnacji mojego maluszka! Bardzo bardzo dziękuję raz jeszcze!!! Zawsze wrócę!"
+  },
+  {
+    "name": "Darek",
+    "rating": 5,
+    "text": "Gorąco polecam! Moja psinka wygląda po wizycie jak księżniczka 😁 Pani Ula ma świetne podejście do czworonogów."
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Fantastyczne miejsce, w którym piesek czuje się doskonale .W czasie pielęgnacji piesek nie jest zestresowany.Efekt strzyżenia bardzo ładny.Nela poleca Psia Fryzjernie !"
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Również polecam, pierwszy raz korzystałam z usług pani Uli, dużo się dowiedziałam na temat pielęgnacji. Usługa wykonana fachowo, z sercem, a co najważniejsze - bez stresu dla mojego pupila. Pozdrawiamy, Magda i Max"
+  },
+  {
+    "name": "Sebastian",
+    "rating": 5,
+    "text": "Jeśli chodzi o moje zdanie to jest to najlepszy gromer u jakie byłem że swoimi szpicami a byłem u kilku 100% polecam panią Ulę!"
+  },
+  {
+    "name": "Paulina",
+    "rating": 5,
+    "text": "Pełen profesjonalizm 👌 To nasze drugie strzyżenie i nie ostatnie. Nie obawiam się że zostawię mojego pupila na 2h bo wiem że jest w dobrych rękach. Dziękujemy ! 🩷"
+  },
+  {
+    "name": "Anna",
+    "rating": 5,
+    "text": "Bardzo miła pani i profesjonalnie zajęła się moim pieskiem."
+  },
+  {
+    "name": "Iwona",
+    "rating": 5,
+    "text": "Pełen profesjonalizm. Pani bardzo miła, widać ze to co robi wykonuje z pasją. Kiedy wróciłem z pieskiem do domu wszyscy domownicy byli zachwyceni z nowego wyglądu . Nawet po dwóch latach bez trymowania Pani wyprowadziła sierść suni do super wyglądu. Śmiało mogę powiedzieć że można startować na wystawie. Polecam w 100% 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶"
+  },
+  {
+    "name": "Aleksandra",
+    "rating": 5,
+    "text": "Zdecydowanie polecam🦸‍♂️ Z czystym sumieniem zostawiłam dziś swojego Pupila na kompleksowe SPA, wiedząc, że jest w najlepszych rękach i wróci do domu bez traumy🦊💆‍♀️ Atmosfera super, a sama jakość obcięcia, perfekcyjna 😻"
+  },
+    {
+    "name": "Justyna",
+    "rating": 5,
+    "text": "Z całego serca polecam *Psią Fryzjernię w Lublinie*! 🐾✂️ Profesjonalne podejście, ogromna cierpliwość i miłość do zwierząt widać tu na każdym kroku. Mój piesek wyszedł nie tylko pięknie ostrzyżony, ale też zrelaksowany i szczęśliwy! 💖 Czysto, przyjemnie, bez stresu – widać, że to miejsce stworzone z pasji. Dziękuję za cudowną opiekę i już nie możemy się doczekać kolejnej wizyty! 🐶✨"
+  },
+  {
+    "name": "Lizaveta",
+    "rating": 5,
+    "text": "Dziękuję bardzo ode mnie i od Runy za delikatne podejście. Pomimo tego, że pies się bał i od czasu do czasu próbował ugryźć groomera, wszystko się udało. Mój szczeniak wygląda teraz na swój wiek, a nie na dziadka. Na pewno wrócimy!❤❤❤"
+  },
+  {
+    "name": "Kacper",
+    "rating": 5,
+    "text": "Strzyżemy naszego maltańczyka w Psiej Fryzjerni od samego początku i możemy z czystym sumieniem polecić. Pani Groomerka ma bardzo dobre podejście do zwierząt! Piesek zawsze jest obcięty bardzo ładnie 😄 Polecam serdecznie!"
+  },
+  {
+    "name": "Renata",
+    "rating": 5,
+    "text": "Wyjątkowe miejsce, wyjątkowa usługa!!! Pani z miłością i pasją zajęła się moim malutkim Biewerkiem! A efekt rewelacyjny!!! Pięknie ostrzyżony! Dopieszczony każdy kosmyk!!! A piesek zadowolony - brak stresu- zasypiał podczas całego zabiegu- czuł się bezpiecznie❤️ GORĄCO POLECAM- takich miejsc w Lublinie nie ma - dluuuugo szukałam właśnie takiego groomera! Profesjonalana usługa a Pani pełna pasji do tego co robi! Otrzymałam też wiele cennych informacji na temat pielęgnacji mojego maluszka! Bardzo bardzo dziękuję raz jeszcze!!! Zawsze wrócę!"
+  },
+  {
+    "name": "Darek",
+    "rating": 5,
+    "text": "Gorąco polecam! Moja psinka wygląda po wizycie jak księżniczka 😁 Pani Ula ma świetne podejście do czworonogów."
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Fantastyczne miejsce, w którym piesek czuje się doskonale .W czasie pielęgnacji piesek nie jest zestresowany.Efekt strzyżenia bardzo ładny.Nela poleca Psia Fryzjernie !"
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Również polecam, pierwszy raz korzystałam z usług pani Uli, dużo się dowiedziałam na temat pielęgnacji. Usługa wykonana fachowo, z sercem, a co najważniejsze - bez stresu dla mojego pupila. Pozdrawiamy, Magda i Max"
+  },
+  {
+    "name": "Sebastian",
+    "rating": 5,
+    "text": "Jeśli chodzi o moje zdanie to jest to najlepszy gromer u jakie byłem że swoimi szpicami a byłem u kilku 100% polecam panią Ulę!"
+  },
+  {
+    "name": "Paulina",
+    "rating": 5,
+    "text": "Pełen profesjonalizm 👌 To nasze drugie strzyżenie i nie ostatnie. Nie obawiam się że zostawię mojego pupila na 2h bo wiem że jest w dobrych rękach. Dziękujemy ! 🩷"
+  },
+  {
+    "name": "Anna",
+    "rating": 5,
+    "text": "Bardzo miła pani i profesjonalnie zajęła się moim pieskiem."
+  },
+  {
+    "name": "Iwona",
+    "rating": 5,
+    "text": "Pełen profesjonalizm. Pani bardzo miła, widać ze to co robi wykonuje z pasją. Kiedy wróciłem z pieskiem do domu wszyscy domownicy byli zachwyceni z nowego wyglądu . Nawet po dwóch latach bez trymowania Pani wyprowadziła sierść suni do super wyglądu. Śmiało mogę powiedzieć że można startować na wystawie. Polecam w 100% 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶"
+  },
+  {
+    "name": "Aleksandra",
+    "rating": 5,
+    "text": "Zdecydowanie polecam🦸‍♂️ Z czystym sumieniem zostawiłam dziś swojego Pupila na kompleksowe SPA, wiedząc, że jest w najlepszych rękach i wróci do domu bez traumy🦊💆‍♀️ Atmosfera super, a sama jakość obcięcia, perfekcyjna 😻"
+  },
+    {
+    "name": "Justyna",
+    "rating": 5,
+    "text": "Z całego serca polecam *Psią Fryzjernię w Lublinie*! 🐾✂️ Profesjonalne podejście, ogromna cierpliwość i miłość do zwierząt widać tu na każdym kroku. Mój piesek wyszedł nie tylko pięknie ostrzyżony, ale też zrelaksowany i szczęśliwy! 💖 Czysto, przyjemnie, bez stresu – widać, że to miejsce stworzone z pasji. Dziękuję za cudowną opiekę i już nie możemy się doczekać kolejnej wizyty! 🐶✨"
+  },
+  {
+    "name": "Lizaveta",
+    "rating": 5,
+    "text": "Dziękuję bardzo ode mnie i od Runy za delikatne podejście. Pomimo tego, że pies się bał i od czasu do czasu próbował ugryźć groomera, wszystko się udało. Mój szczeniak wygląda teraz na swój wiek, a nie na dziadka. Na pewno wrócimy!❤❤❤"
+  },
+  {
+    "name": "Kacper",
+    "rating": 5,
+    "text": "Strzyżemy naszego maltańczyka w Psiej Fryzjerni od samego początku i możemy z czystym sumieniem polecić. Pani Groomerka ma bardzo dobre podejście do zwierząt! Piesek zawsze jest obcięty bardzo ładnie 😄 Polecam serdecznie!"
+  },
+  {
+    "name": "Renata",
+    "rating": 5,
+    "text": "Wyjątkowe miejsce, wyjątkowa usługa!!! Pani z miłością i pasją zajęła się moim malutkim Biewerkiem! A efekt rewelacyjny!!! Pięknie ostrzyżony! Dopieszczony każdy kosmyk!!! A piesek zadowolony - brak stresu- zasypiał podczas całego zabiegu- czuł się bezpiecznie❤️ GORĄCO POLECAM- takich miejsc w Lublinie nie ma - dluuuugo szukałam właśnie takiego groomera! Profesjonalana usługa a Pani pełna pasji do tego co robi! Otrzymałam też wiele cennych informacji na temat pielęgnacji mojego maluszka! Bardzo bardzo dziękuję raz jeszcze!!! Zawsze wrócę!"
+  },
+  {
+    "name": "Darek",
+    "rating": 5,
+    "text": "Gorąco polecam! Moja psinka wygląda po wizycie jak księżniczka 😁 Pani Ula ma świetne podejście do czworonogów."
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Fantastyczne miejsce, w którym piesek czuje się doskonale .W czasie pielęgnacji piesek nie jest zestresowany.Efekt strzyżenia bardzo ładny.Nela poleca Psia Fryzjernie !"
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Również polecam, pierwszy raz korzystałam z usług pani Uli, dużo się dowiedziałam na temat pielęgnacji. Usługa wykonana fachowo, z sercem, a co najważniejsze - bez stresu dla mojego pupila. Pozdrawiamy, Magda i Max"
+  },
+  {
+    "name": "Sebastian",
+    "rating": 5,
+    "text": "Jeśli chodzi o moje zdanie to jest to najlepszy gromer u jakie byłem że swoimi szpicami a byłem u kilku 100% polecam panią Ulę!"
+  },
+  {
+    "name": "Paulina",
+    "rating": 5,
+    "text": "Pełen profesjonalizm 👌 To nasze drugie strzyżenie i nie ostatnie. Nie obawiam się że zostawię mojego pupila na 2h bo wiem że jest w dobrych rękach. Dziękujemy ! 🩷"
+  },
+  {
+    "name": "Anna",
+    "rating": 5,
+    "text": "Bardzo miła pani i profesjonalnie zajęła się moim pieskiem."
+  },
+  {
+    "name": "Iwona",
+    "rating": 5,
+    "text": "Pełen profesjonalizm. Pani bardzo miła, widać ze to co robi wykonuje z pasją. Kiedy wróciłem z pieskiem do domu wszyscy domownicy byli zachwyceni z nowego wyglądu . Nawet po dwóch latach bez trymowania Pani wyprowadziła sierść suni do super wyglądu. Śmiało mogę powiedzieć że można startować na wystawie. Polecam w 100% 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶"
+  },
+  {
+    "name": "Aleksandra",
+    "rating": 5,
+    "text": "Zdecydowanie polecam🦸‍♂️ Z czystym sumieniem zostawiłam dziś swojego Pupila na kompleksowe SPA, wiedząc, że jest w najlepszych rękach i wróci do domu bez traumy🦊💆‍♀️ Atmosfera super, a sama jakość obcięcia, perfekcyjna 😻"
+  },
+    {
+    "name": "Justyna",
+    "rating": 5,
+    "text": "Z całego serca polecam *Psią Fryzjernię w Lublinie*! 🐾✂️ Profesjonalne podejście, ogromna cierpliwość i miłość do zwierząt widać tu na każdym kroku. Mój piesek wyszedł nie tylko pięknie ostrzyżony, ale też zrelaksowany i szczęśliwy! 💖 Czysto, przyjemnie, bez stresu – widać, że to miejsce stworzone z pasji. Dziękuję za cudowną opiekę i już nie możemy się doczekać kolejnej wizyty! 🐶✨"
+  },
+  {
+    "name": "Lizaveta",
+    "rating": 5,
+    "text": "Dziękuję bardzo ode mnie i od Runy za delikatne podejście. Pomimo tego, że pies się bał i od czasu do czasu próbował ugryźć groomera, wszystko się udało. Mój szczeniak wygląda teraz na swój wiek, a nie na dziadka. Na pewno wrócimy!❤❤❤"
+  },
+  {
+    "name": "Kacper",
+    "rating": 5,
+    "text": "Strzyżemy naszego maltańczyka w Psiej Fryzjerni od samego początku i możemy z czystym sumieniem polecić. Pani Groomerka ma bardzo dobre podejście do zwierząt! Piesek zawsze jest obcięty bardzo ładnie 😄 Polecam serdecznie!"
+  },
+  {
+    "name": "Renata",
+    "rating": 5,
+    "text": "Wyjątkowe miejsce, wyjątkowa usługa!!! Pani z miłością i pasją zajęła się moim malutkim Biewerkiem! A efekt rewelacyjny!!! Pięknie ostrzyżony! Dopieszczony każdy kosmyk!!! A piesek zadowolony - brak stresu- zasypiał podczas całego zabiegu- czuł się bezpiecznie❤️ GORĄCO POLECAM- takich miejsc w Lublinie nie ma - dluuuugo szukałam właśnie takiego groomera! Profesjonalana usługa a Pani pełna pasji do tego co robi! Otrzymałam też wiele cennych informacji na temat pielęgnacji mojego maluszka! Bardzo bardzo dziękuję raz jeszcze!!! Zawsze wrócę!"
+  },
+  {
+    "name": "Darek",
+    "rating": 5,
+    "text": "Gorąco polecam! Moja psinka wygląda po wizycie jak księżniczka 😁 Pani Ula ma świetne podejście do czworonogów."
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Fantastyczne miejsce, w którym piesek czuje się doskonale .W czasie pielęgnacji piesek nie jest zestresowany.Efekt strzyżenia bardzo ładny.Nela poleca Psia Fryzjernie !"
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Również polecam, pierwszy raz korzystałam z usług pani Uli, dużo się dowiedziałam na temat pielęgnacji. Usługa wykonana fachowo, z sercem, a co najważniejsze - bez stresu dla mojego pupila. Pozdrawiamy, Magda i Max"
+  },
+  {
+    "name": "Sebastian",
+    "rating": 5,
+    "text": "Jeśli chodzi o moje zdanie to jest to najlepszy gromer u jakie byłem że swoimi szpicami a byłem u kilku 100% polecam panią Ulę!"
+  },
+  {
+    "name": "Paulina",
+    "rating": 5,
+    "text": "Pełen profesjonalizm 👌 To nasze drugie strzyżenie i nie ostatnie. Nie obawiam się że zostawię mojego pupila na 2h bo wiem że jest w dobrych rękach. Dziękujemy ! 🩷"
+  },
+  {
+    "name": "Anna",
+    "rating": 5,
+    "text": "Bardzo miła pani i profesjonalnie zajęła się moim pieskiem."
+  },
+  {
+    "name": "Iwona",
+    "rating": 5,
+    "text": "Pełen profesjonalizm. Pani bardzo miła, widać ze to co robi wykonuje z pasją. Kiedy wróciłem z pieskiem do domu wszyscy domownicy byli zachwyceni z nowego wyglądu . Nawet po dwóch latach bez trymowania Pani wyprowadziła sierść suni do super wyglądu. Śmiało mogę powiedzieć że można startować na wystawie. Polecam w 100% 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶"
+  },
+  {
+    "name": "Aleksandra",
+    "rating": 5,
+    "text": "Zdecydowanie polecam🦸‍♂️ Z czystym sumieniem zostawiłam dziś swojego Pupila na kompleksowe SPA, wiedząc, że jest w najlepszych rękach i wróci do domu bez traumy🦊💆‍♀️ Atmosfera super, a sama jakość obcięcia, perfekcyjna 😻"
+  },
+    {
+    "name": "Justyna",
+    "rating": 5,
+    "text": "Z całego serca polecam *Psią Fryzjernię w Lublinie*! 🐾✂️ Profesjonalne podejście, ogromna cierpliwość i miłość do zwierząt widać tu na każdym kroku. Mój piesek wyszedł nie tylko pięknie ostrzyżony, ale też zrelaksowany i szczęśliwy! 💖 Czysto, przyjemnie, bez stresu – widać, że to miejsce stworzone z pasji. Dziękuję za cudowną opiekę i już nie możemy się doczekać kolejnej wizyty! 🐶✨"
+  },
+  {
+    "name": "Lizaveta",
+    "rating": 5,
+    "text": "Dziękuję bardzo ode mnie i od Runy za delikatne podejście. Pomimo tego, że pies się bał i od czasu do czasu próbował ugryźć groomera, wszystko się udało. Mój szczeniak wygląda teraz na swój wiek, a nie na dziadka. Na pewno wrócimy!❤❤❤"
+  },
+  {
+    "name": "Kacper",
+    "rating": 5,
+    "text": "Strzyżemy naszego maltańczyka w Psiej Fryzjerni od samego początku i możemy z czystym sumieniem polecić. Pani Groomerka ma bardzo dobre podejście do zwierząt! Piesek zawsze jest obcięty bardzo ładnie 😄 Polecam serdecznie!"
+  },
+  {
+    "name": "Renata",
+    "rating": 5,
+    "text": "Wyjątkowe miejsce, wyjątkowa usługa!!! Pani z miłością i pasją zajęła się moim malutkim Biewerkiem! A efekt rewelacyjny!!! Pięknie ostrzyżony! Dopieszczony każdy kosmyk!!! A piesek zadowolony - brak stresu- zasypiał podczas całego zabiegu- czuł się bezpiecznie❤️ GORĄCO POLECAM- takich miejsc w Lublinie nie ma - dluuuugo szukałam właśnie takiego groomera! Profesjonalana usługa a Pani pełna pasji do tego co robi! Otrzymałam też wiele cennych informacji na temat pielęgnacji mojego maluszka! Bardzo bardzo dziękuję raz jeszcze!!! Zawsze wrócę!"
+  },
+  {
+    "name": "Darek",
+    "rating": 5,
+    "text": "Gorąco polecam! Moja psinka wygląda po wizycie jak księżniczka 😁 Pani Ula ma świetne podejście do czworonogów."
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Fantastyczne miejsce, w którym piesek czuje się doskonale .W czasie pielęgnacji piesek nie jest zestresowany.Efekt strzyżenia bardzo ładny.Nela poleca Psia Fryzjernie !"
+  },
+  {
+    "name": "Magdalena",
+    "rating": 5,
+    "text": "Również polecam, pierwszy raz korzystałam z usług pani Uli, dużo się dowiedziałam na temat pielęgnacji. Usługa wykonana fachowo, z sercem, a co najważniejsze - bez stresu dla mojego pupila. Pozdrawiamy, Magda i Max"
+  },
+  {
+    "name": "Sebastian",
+    "rating": 5,
+    "text": "Jeśli chodzi o moje zdanie to jest to najlepszy gromer u jakie byłem że swoimi szpicami a byłem u kilku 100% polecam panią Ulę!"
+  },
+  {
+    "name": "Paulina",
+    "rating": 5,
+    "text": "Pełen profesjonalizm 👌 To nasze drugie strzyżenie i nie ostatnie. Nie obawiam się że zostawię mojego pupila na 2h bo wiem że jest w dobrych rękach. Dziękujemy ! 🩷"
+  },
+  {
+    "name": "Anna",
+    "rating": 5,
+    "text": "Bardzo miła pani i profesjonalnie zajęła się moim pieskiem."
+  },
+  {
+    "name": "Iwona",
+    "rating": 5,
+    "text": "Pełen profesjonalizm. Pani bardzo miła, widać ze to co robi wykonuje z pasją. Kiedy wróciłem z pieskiem do domu wszyscy domownicy byli zachwyceni z nowego wyglądu . Nawet po dwóch latach bez trymowania Pani wyprowadziła sierść suni do super wyglądu. Śmiało mogę powiedzieć że można startować na wystawie. Polecam w 100% 🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶🐶"
+  },
+  {
+    "name": "Aleksandra",
+    "rating": 5,
+    "text": "Zdecydowanie polecam🦸‍♂️ Z czystym sumieniem zostawiłam dziś swojego Pupila na kompleksowe SPA, wiedząc, że jest w najlepszych rękach i wróci do domu bez traumy🦊💆‍♀️ Atmosfera super, a sama jakość obcięcia, perfekcyjna 😻"
+  }
+]
