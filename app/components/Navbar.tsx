@@ -34,7 +34,7 @@ export const Navbar = () => {
 
     return (
         <nav className="flex flex-col md:flex-row w-full sticky top-0 bg-bone1 items-center text-lg z-50" style={{overflow: 'hidden'}}>
-          <div className="flex w-full md:justify-between justify-start md:gap-0 gap-8 items-center p-4 md:p-0">
+          <div className="flex w-full md:justify-between justify-start md:gap-0 gap-8 items-center p-4 md:p-0 md:bg-bone1 bg-brown1">
             <img src="/logo.svg" alt="logo" className="hidden md:block h-16 ml-8" />
             <img src="logo_pl_200.png" alt="orly_groomingu" className="md:hidden h-10"/>
             <button className="md:hidden ml-auto transition-transform duration-150 active:scale-90" onClick={toggleMenu} style={{color:"black"}}>
@@ -43,7 +43,7 @@ export const Navbar = () => {
               </svg>
             </button>
           </div>
-          <div className={`flex flex-col md:flex-row md:items-center md:gap-3 ${isOpen ? 'block' : 'hidden'} w-full md:w-auto text-graphite1 text-right mb-8 md:mb-0`}>
+          <div className={`flex flex-col md:flex-row md:items-center md:gap-3 ${isOpen ? 'block' : 'hidden'} w-full md:w-auto text-graphite1 text-right mb-4 mt-4 md:mt-0 md:mb-0`}>
             <Element onClick={handleLinkClick} href='#intro' label="Psia fryzjernia"/>
             <Element onClick={handleLinkClick} href='#about' label="O nas"/>
             <Element onClick={handleLinkClick} href='#offer' label="Oferta"/>
@@ -64,6 +64,6 @@ type ElementProps = {
     href?: string
     onClick?: () => void
 }
-const Element = (p: ElementProps) => <a onClick={p.onClick} href={p.href} className="pl-5 pr-5 font-semibold md:text-nowrap">{p.label}</a>
+const Element = (p: ElementProps) => <a onClick={p.onClick} href={p.href} className="pl-5 pr-5 font-semibold md:text-nowrap transition-colors duration-150 active:bg-graphite1/10 rounded-md">{p.label}</a>
 
 export default Navbar

@@ -22,6 +22,7 @@ const config: Config = {
         bone1: "#E8E3D6",
         bone2: "#F7F1E9",
         graphite1: "#404040",
+        brown1: "#737373",
         greyish: "#CACACA"
       },
     },
