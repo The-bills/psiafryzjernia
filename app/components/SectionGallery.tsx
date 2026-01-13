@@ -121,7 +121,7 @@ export const SectionGallery = () => {
             <img
               src={'/gallery/thumbnail/' + image}
               alt="photo"
-              className="aspect-square object-cover brightness-75 transition ease-in delay-500 hover:scale-125 hover:brightness-100 duration-300 cursor-pointer"
+              className="aspect-square object-cover brightness-75 transition ease-in delay-200 hover:scale-125 hover:brightness-100 duration-300 cursor-pointer"
               onClick={() => setPhotoIndex(index)}
               loading="lazy"
             />

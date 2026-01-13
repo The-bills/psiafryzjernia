@@ -9,6 +9,8 @@ import { SectionBeforeVisit } from "./components/SectionBeforeVisit";
 import { SectionGallery } from "./components/SectionGallery";
 import { SectionContact } from "./components/SectionContact";
 import { SectionBottom } from "./components/SectionBottom";
+import { Certificates } from "./components/Certificates";
+import { Opinions } from "./components/Opinions";
 
 import dynamic from "next/dynamic";
 
@@ -50,6 +52,8 @@ export default function Home() {
       <SectionPricing />
       <SectionBeforeVisit />
       <SectionGallery />
+      <Certificates />
+      <Opinions />
       <SectionContact />
       <SectionBottom />
     </main>

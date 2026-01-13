@@ -2,7 +2,7 @@ export const SectionOffer = () => {
   return (
     <section id='offer' className="flex flex-col items-center justify-center w-full pt-16 pb-16 bg-graphite1">
       <h1 className="text-4xl md:text-6xl text-bone2 pb-10 underline decoration-1 underline-offset-8">Oferta</h1>
-      <div className="flex flex-row flex-wrap justify-center gap-10 max-w-6xl pl-10 pr-10 text-stone-950">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-6xl px-10 text-stone-950">
         <Card title="Kąpiel">
           W zakres usługi wchodzi wyczesanie pieska przed kąpielą, dwukrotna
           kąpiel z użyciem odpowiednich do rodzaju szaty i jakości/kondycji
@@ -16,11 +16,6 @@ export const SectionOffer = () => {
           strzyżenie według ustaleń z klientem lub według wzorca rasy,
           pielęgnacja okolic oczu, uszu, skrócenie pazurków, strzyżenie
           higieniczne oraz kończąca kosmetyka estetyczna.
-        </Card>
-        <Card title="Trymowanie">
-          Zlecenie usługi przyjmowane jest po wcześniejszej konsultacji i ocenie
-          sierści psa. Pieska nie należy kąpać co najmniej 2 tygodnie przed
-          wizytą.
         </Card>
         <Card title="Inne usługi">
           Są to zlecane osobno: obcinanie pazurków, czyszczenie uszu, oczu,
@@ -39,7 +34,7 @@ type CardProps = {
   children: React.ReactNode;
 };
 export const Card = (p: CardProps) => (
-  <div className="bg-bone2 w-80 pb-10 pl-8 pr-8 min-h-96 border-2">
+  <div className="bg-bone2 w-80 pb-10 pl-8 pr-8 min-h-96 border-2 rounded-2xl shadow-lg transition ease-linear delay-300 duration-300 hover:scale-110">
     <div className="text-2xl text-center pt-10 mb-2 leading-relaxed flex justify-center border-b border-black">
       {p.title}
     </div>
