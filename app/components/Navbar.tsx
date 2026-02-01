@@ -4,7 +4,6 @@ import React, { useEffect, useState } from 'react';
 export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
-  // Ustawienie menu przy resize
   useEffect(() => {
     const handleResize = () => {
       if (window.innerWidth <= 768) {
@@ -32,7 +31,7 @@ export const Navbar = () => {
     <nav className="flex flex-col md:flex-row w-full sticky top-0 bg-bone1 items-center text-lg z-50">
       {/* Górny pasek z logo i hamburger */}
       <div className="flex w-full md:justify-between justify-start md:gap-0 gap-8 items-center p-4 md:p-0 md:bg-bone1 bg-brown1">
-        <img src="/logo.svg" alt="logo" className="hidden md:block h-16 ml-8" />
+        <img src="/logo.svg" alt="logo" className="hidden md:block h-16 ml-8 flex-shrink-0" />
         <img src="logo_pl_200.png" alt="orly_groomingu" className="md:hidden h-10"/>
         <button
           className="md:hidden ml-auto transition-transform duration-150 active:scale-90"
@@ -48,13 +47,13 @@ export const Navbar = () => {
       {/* Menu mobile + tło rozwijane */}
       <div
   className={`
-    w-full overflow-hidden
+    w-full md:w-auto md:flex-1 overflow-hidden md:overflow-visible
     transition-[max-height,opacity] duration-300 ease-in-out
     ${isOpen ? 'max-h-[1000px] opacity-100' : 'max-h-0 opacity-0'}
-    md:max-h-none md:opacity-100 md:overflow-visible
+    md:max-h-none md:opacity-100
   `}
 >
-  <div className="w-full bg-bone1 flex flex-col md:flex-row md:items-center md:gap-3 items-end p-4 md:p-0 text-graphite1 text-right gap-0 md:gap-3">
+  <div className="bg-bone1 flex flex-col md:flex-row md:items-center md:gap-2 md:overflow-x-auto items-end p-4 md:p-0 text-graphite1 text-right gap-0 scrollbar-hide">
     {[
       { href: '#intro', label: 'Psia fryzjernia' },
       { href: '#about', label: 'O nas' },
@@ -71,7 +70,7 @@ export const Navbar = () => {
   </div>
 </div>
 
-      <img src="logo_pl_200.png" alt="orly_groomingu" className="hidden md:block h-12 ml-8 mr-8" />
+      <img src="logo_pl_200.png" alt="orly_groomingu" className="hidden md:block h-12 ml-8 mr-8 flex-shrink-0" />
     </nav>
   );
 };
@@ -92,7 +91,7 @@ const Element = ({ label, href, onClick, index = 0, isOpen = true }: ElementProp
       href={href}
       style={{ transitionDelay: `${delay}ms` }}
       className={`
-        pl-5 pr-5 font-semibold md:text-nowrap rounded-md
+        pl-3 pr-3 font-semibold rounded-md whitespace-nowrap
         transform transition-all duration-300
         ${isOpen ? 'translate-y-0 opacity-100' : 'translate-y-2 opacity-0'}
         md:translate-y-0 md:opacity-100 md:transition-none
