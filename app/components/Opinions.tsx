@@ -44,7 +44,7 @@ export function Opinions() {
   return (
     <section
       id="opinions"
-      className="w-full py-16 bg-bone flex flex-col items-center justify-center text-center overflow-hidden"
+      className="w-full py-16 bg-bone2 flex flex-col items-center justify-center text-center overflow-hidden"
     >
       <h2 className="text-4xl text-graphite1 md:text-5xl font-semibold text-bone2 underline decoration-1 underline-offset-8 mb-12">
         Opinie
